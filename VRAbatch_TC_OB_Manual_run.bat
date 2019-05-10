@@ -1,0 +1,1 @@
+java -cp ./VRAbatch_TC_OB.jar;./lib/* com.macaron.vra.launcher.TcObPsttDataUploadLauncher m 2018-05-29-00 2018-05-30-00

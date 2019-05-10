@@ -1,0 +1,1 @@
+java -cp ./VRAbatch_TC_OB.jar;./lib/* com.macaron.vra.launcher.TcObPsttDataUploadLauncher a

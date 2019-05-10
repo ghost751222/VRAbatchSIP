@@ -1,0 +1,6 @@
+	use G72xStereoSplit.exe
+	.\G72xStereoSplit.exe in.wav 2 244 left.g723_1 right.g723_1
+	use ffmpeg.exe
+	ffmpeg -y -acodec g723_1 -f g723_1 -i left.g723_1 left.wav
+	ffmpeg -y -acodec g723_1 -f g723_1 -i right.g723_1 right.wav
+	ffmpeg -i left.wav -i right.wav -filter_complex "[0]apad[a];[a][1]amerge[aout]" -map "[aout]" GQ_new.wav

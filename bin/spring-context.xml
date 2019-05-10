@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:task="http://www.springframework.org/schema/task"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans 
+      	http://www.springframework.org/schema/beans/spring-beans-4.3.xsd 
+      	http://www.springframework.org/schema/context 
+      	http://www.springframework.org/schema/context/spring-context-4.3.xsd
+      	http://www.springframework.org/schema/task
+      	http://www.springframework.org/schema/task/spring-task.xsd">
+<!-- 
+	<bean id="ch1DS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="jdbc:sqlserver://10.33.195.41:1433;databaseName=AL_20180605" />
+		<property name="user" value="sa" />
+		<property name="password" value="robofish1!" />
+	</bean>
+	
+	<bean id="ch1JdbcTemplate" class="org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate">
+		<constructor-arg ref="ch1DS"/>
+	</bean>
+
+	<bean id="ch2DS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="jdbc:sqlserver://10.33.195.42:1433;databaseName=AL_20190303" />
+		<property name="user" value="sa" />
+		<property name="password" value="robofish1!" />
+	</bean>
+	
+	<bean id="ch2JdbcTemplate" class="org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate">
+		<constructor-arg ref="ch2DS"/>
+	</bean>
+	
+	<bean id="ch3DS" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+		<property name="jdbcUrl" value="jdbc:sqlserver://10.33.195.59:1433;databaseName=AL_20190213" />
+		<property name="user" value="sa" />
+		<property name="password" value="robofish1!" />
+	</bean>
+	
+	<bean id="ch3JdbcTemplate" class="org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate">
+		<constructor-arg ref="ch3DS"/>
+	</bean>
+ --> 	
+	<context:component-scan base-package="com.macaron.vra" />
+	
+	<task:executor id="taskExecutors" pool-size="10"/>
+	
+	<task:executor id="scheduleExecutor" pool-size="2"/>
+	<task:scheduler id="scheduler" pool-size="1"  />
+	<task:annotation-driven executor="scheduleExecutor" scheduler="scheduler"/>
+</beans>

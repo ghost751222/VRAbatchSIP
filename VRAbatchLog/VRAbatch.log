@@ -1,0 +1,112 @@
+[VRAbatch][main][2019/05/09 14:59:11.467, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 14:59:12.739, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 82  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 14:59:12.741, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 86  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 14:59:12.741, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 14:59:12.742, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 128 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:89)
+[VRAbatch][main][2019/05/09 14:59:20.587, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 14:59:20.592, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 75  , ERROR] {0}
+[VRAbatch][main][2019/05/09 14:59:21.967, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 14:59:21.970, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 14:59:21.970, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 14:59:21.972, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:00:18.788, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:00:18.792, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 75  , ERROR] {0}
+[VRAbatch][main][2019/05/09 15:00:20.600, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:00:20.601, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:00:20.602, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:00:20.603, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:00:22.008, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:00:22.015, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 75  , ERROR] gggg
+[VRAbatch][main][2019/05/09 15:00:23.306, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:00:23.308, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:00:23.309, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:00:23.311, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:01:02.763, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:01:02.769, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 75  , ERROR] one0 two two
+[VRAbatch][main][2019/05/09 15:01:04.663, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:01:04.665, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:01:04.665, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:01:04.666, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:01:10.328, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:01:10.333, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 75  , ERROR] one0 two two2
+[VRAbatch][main][2019/05/09 15:01:11.581, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:01:11.583, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:01:11.583, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:01:11.584, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:02:30.260, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:02:30.266, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 75  , ERROR] one0 two two2
+[VRAbatch][main][2019/05/09 15:02:31.666, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:02:31.668, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:02:31.669, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:02:31.670, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:02:39.769, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:02:41.048, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:02:41.050, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:02:41.050, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:02:41.051, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:17:12.779, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:17:18.876, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [spring-context.xml]; nested exception is java.io.FileNotFoundException: class path resource [spring-context.xml] cannot be opened because it does not exist
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:344)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:181)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:217)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:252)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:129)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:613)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:514)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:61)
+Caused by: java.io.FileNotFoundException: class path resource [spring-context.xml] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:172)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:330)
+	... 18 more
+[VRAbatch][main][2019/05/09 15:19:01.205, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:19:02.861, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 82  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:19:02.864, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 86  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:19:02.864, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 87  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:19:02.868, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 62  , INFO ] schedule CRON:0 */15 * * * ?
+[VRAbatch][main][2019/05/09 15:19:23.708, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:19:24.824, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 82  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:19:24.826, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 86  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:19:24.826, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 87  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:19:24.831, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 62  , INFO ] schedule CRON:0 */15 * * * ?
+[VRAbatch][main][2019/05/09 15:20:13.331, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:20:14.389, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 83  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:20:14.390, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 87  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:20:14.391, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 88  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:20:14.392, com.macaron.vra.launcher.BqObPsttDataUploadLauncher, 129 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.BqObPsttDataUploadLauncher.main(BqObPsttDataUploadLauncher.java:90)
+[VRAbatch][main][2019/05/09 15:20:38.747, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 74  , INFO ] C:\Users\YY\Desktop\新增資料夾\語音\VRAbatchSIP
+[VRAbatch][main][2019/05/09 15:20:39.869, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 82  , DEBUG] 2018-05-05-00-00
+[VRAbatch][main][2019/05/09 15:20:39.871, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 86  , DEBUG] sync date:2019-05-09 00:00:00.000
+[VRAbatch][main][2019/05/09 15:20:39.872, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 87  , DEBUG] data date:2019-05-08 00:00:00.000
+[VRAbatch][main][2019/05/09 15:20:39.873, com.macaron.vra.launcher.TcObPsttDataUploadLauncher, 126 , ERROR] {}
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.macaron.vra.launcher.TcObPsttDataUploadLauncher.main(TcObPsttDataUploadLauncher.java:89)
